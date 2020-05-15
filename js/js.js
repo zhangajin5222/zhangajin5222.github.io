@@ -1,12 +1,12 @@
 window.onload=function(){
     var imgArr=[
-        {"path":"images/1.jpg"},
-        {"path":"images/2.jpg"},
-        {"path":"images/3.jpg"},
-        {"path":"images/4.jpg"},
-        {"path":"images/5.jpg"},
-        {"path":"images/6.jpg"},
-        {"path":"images/7.jpg"}
+        {"path":"images/1.png"},
+        {"path":"images/2.png"},
+        {"path":"images/3.png"},
+        {"path":"images/4.png"},
+        {"path":"images/5.png"},
+        {"path":"images/6.png"},
+        {"path":"images/7.png"}
     ];
     var size=[
         {"top":60,"left":0,"width":400,"height":240,"zIndex":1,"opacity":0},
